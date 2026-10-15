@@ -46,7 +46,7 @@ Type
 ````linux
 [escape] 
 :wq 
-''''
+````
 
 Use __ls__ and __cat__ to make sure the file is there and looks as it should! To edit this file, use the command
 
@@ -73,7 +73,7 @@ Type the following to enter command mode, write and quit.
 
  If you make a mess of your edit, you can exit without saving. Use the command
 
- ````linux
+````linux
 vi viFile1.txt
 ````
 
